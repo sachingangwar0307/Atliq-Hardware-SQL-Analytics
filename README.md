@@ -64,7 +64,6 @@ The project answers important business questions such as:
 
 ✔ Business Reporting
 
-✔ Data Aggregation
 
 ✔ Forecast Accuracy Analysis
 
@@ -85,8 +84,6 @@ Atliq-Hardware-SQL-Analytics
 │   ├── 04_Business_Reports.sql
 │
 ├── sql-screenshots/
-│
-├── power-bi/
 │
 ├── power-bi-screenshots/
 │
@@ -225,11 +222,10 @@ power-bi-screenshots/Dashboard.png
 Examples include:
 
 - Top Markets
-- Top Customers
 - Forecast Accuracy
 - Customer Contribution
 - Market Badge
-- Product Ranking
+- Product Ranking by division
 
 ---
 
