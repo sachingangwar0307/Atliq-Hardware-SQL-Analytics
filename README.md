@@ -265,7 +265,6 @@ Aspiring Data Analyst
 - SQL
 - Power BI
 - Excel
-- Python
 - Data Analytics
 
 ---
