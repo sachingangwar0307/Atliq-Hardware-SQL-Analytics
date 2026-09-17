@@ -204,19 +204,6 @@ These screenshots make it easier to understand the analysis process.
 - GitHub Project Management
 
 ---
-
-# 📷 Project Preview
-
-## Dashboard
-
-*(Add your dashboard screenshot here)*
-
-```
-power-bi-screenshots/Dashboard.png
-```
-
----
-
 ## SQL Reports
 
 Examples include:
